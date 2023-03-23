@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "AudioFlash",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.instagram.com/" 
+            ],
+            "css": [
+                "style.css"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}

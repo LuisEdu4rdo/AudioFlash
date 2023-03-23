@@ -1,0 +1,9 @@
+.flashButton{
+    color: rgb(245, 245, 245);
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    display: flex;
+
+}
